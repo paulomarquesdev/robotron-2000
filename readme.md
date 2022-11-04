@@ -1,4 +1,4 @@
-# Alura MIDI
+# Robotron 2000
 
 ![preview](./assets/public/print.png)
 
